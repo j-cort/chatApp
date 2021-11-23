@@ -1,0 +1,16 @@
+Resources Used
+**************
+
+DOM manipulation, CSS BOX Model, General HTML/CSS/JS:
+https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
+
+jQuery:
+https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+https://www.codementor.io/@olatundeowokoniran/javascript-tutorial-understanding-append-prepend-after-and-before-qmgkumkyn
+
+Auto-scrolling Feature
+https://www.youtube.com/watch?v=K3bg-WhCBAQ
+https://stackoverflow.com/questions/4249353/jquery-scroll-to-bottom-of-the-page
+
+Chat bubble positioning
+https://www.youtube.com/watch?v=jJ7nUV4bRJs
